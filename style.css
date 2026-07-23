@@ -5,8 +5,8 @@ body{
     background-color: white;	    
  }
 
-#right-colomn{
-   width: 100px;
+#left-colomn{
+   width: 60%;
    float: left;
    background-color:aqua;     
 }
